@@ -4,8 +4,9 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hello java v1");
         System.out.println("hello java v2");
-        System.out.println("bug fix ÎÒÓÖĞŞ¸ÄÁËµÚ7ĞĞ");
-        System.out.println("bug fix ÎÒÓÖĞŞ¸ÄÁËµÚ8ĞĞ");
-        System.out.println("²âÊÔÍÆËÍµ½github....");
+        System.out.println("bug fix æˆ‘åˆä¿®æ”¹äº†ç¬¬7è¡Œ");
+        System.out.println("bug fix æˆ‘åˆä¿®æ”¹äº†ç¬¬8è¡Œ");
+        System.out.println("æµ‹è¯•æ¨é€åˆ°github....");
+        System.out.println("ä»£ç è¢«æå››ä¿®æ”¹äº†....");
     }
 }
